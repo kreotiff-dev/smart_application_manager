@@ -1,0 +1,1 @@
+# smart_application_manager
