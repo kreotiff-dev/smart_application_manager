@@ -1,7 +1,7 @@
 import asyncio
 import logging
 import signal
-from config import Config
+from app.config import Config
 from app.services.card_request_service import CardRequestService
 from app.adapters.rabbitmq import RabbitMQAdapter
 from app.adapters.http_client import HTTPClientAdapter
